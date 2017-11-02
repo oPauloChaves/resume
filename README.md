@@ -20,7 +20,7 @@ I'm a web developer since 2010 and am looking for opportunities to work as **Ful
 
 ## Experience:
 
-**Fullstack JavaScript Developer** *at Santa.io, 04/2017 - 06/2017*
+**Remote Fullstack JavaScript Developer** *at Santa.io, 04/2017 - 06/2017*
 
 - I worked developing an e-commerce system with the MEAN Stack
 - I helped improving the workflow with Docker
