@@ -20,19 +20,19 @@ I'm a web developer since 2010 and am looking for opportunities to work as **Ful
 
 ## Experience:
 
-### **Fullstack JavaScript Developer** *at Santa.io, 04/2017 - 06/2017*
+**Fullstack JavaScript Developer** *at Santa.io, 04/2017 - 06/2017*
 
 - I worked developing an e-commerce system with the MEAN Stack
 - I helped improving the workflow with Docker
 
-### **Junior Systems Analyst** *at SEFAZ-PI, 09/2016 - 04/2017*
+**Junior Systems Analyst** *at SEFAZ-PI, 09/2016 - 04/2017*
 
 - I wrote ​batch​ ​jobs​ ​in​ ​the​ ​Department​ ​of​ ​Taxation​ ​and​ ​Finance​ ​of​ my​ ​state
 - Built batch jobs with Python to parse tens of millions of CSV files stored as clob in an Oracle database to JSON and then persisted the JSON data to a MongoDB replica set with three nodes (primary, secondary​ ​and​ ​arbiter)​ ​that​ ​I ​configured
 
 - I wrote​ ​a ​REST​ ​API​ ​with​ ​Vert.x​ ​to​ ​query​ ​the​ ​data​ ​from​ ​a ​MongoDB​ ​database
 
-### **Fullstack Developer** *at Tartigrado Tecnologia, 01/2016 - 06/2016*
+**Fullstack Developer** *at Tartigrado Tecnologia, 01/2016 - 06/2016*
 
 - I worked​ ​developing​​ a​ web​ ​application​ ​for​ a non-profit​ organization - [Java, Struts2, Spring, Hibernate, jQuery, Angular.js, Foundation]
 
@@ -42,7 +42,7 @@ I'm a web developer since 2010 and am looking for opportunities to work as **Ful
 
 - Built new features where an AngularJS frontend communicated with the backend through REST API calls in a typical MVC app built with Struts2
 
-### **Fullstack Developer** *at Supra Tecnologia, 01/2010 - 12/2012*
+**Fullstack Developer** *at Supra Tecnologia, 01/2010 - 12/2012*
 
 - I worked in a web application (PHP, MySQL, PostgreSQL, JavaScript, HTML, CSS) for the public health system in my state that speed up the process of making​ appointments​​ and​ exams​ that​ benefited​ over​ a ​million​ people
 
