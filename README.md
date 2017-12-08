@@ -1,4 +1,4 @@
-# Fullstack Web Developer - Mid-Level
+# Fullstack Web Developer
 
 ## Paulo Chaves da Silva Filho
 
@@ -54,16 +54,13 @@ I'm a web developer since 2010 and am looking for opportunities to work as **Ful
 
 ## Skills & Technologies:
 
-**Programming Languages**: Java [3+ years], JavaScript [3+ years], PHP [3 years], Elixir [beginner]
+**Programming Languages**: Java [3+ years], JavaScript [4+ years], PHP [3 years]
 
 **Backend**:
-- JavaScript: Node.js, Koajs, Express, Mongoose, Ava
-- Java: Spring Framework, Spring Boot, JPA, Hibernate, Maven
-- Elixir: Phoenix
-- PHP
+- Node.js
+- TypeScript
+- Java (Spring Framework, Spring Boot, JPA, Hibernate, Maven)
 - Docker
-- GIT, Github workflow, JWT, Vim
-- Heroku (Java & Node.js REST API)
 - Test Driven Development
 
 **Databases**: SQL (Postgres, MySQL), NoSQL (MongoDB)
