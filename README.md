@@ -14,7 +14,7 @@ paulochavesbr - Skype
 
 ----------
 
-I'm a web developer since 2010 and am looking for opportunities to work as **Fullstack Web Developer** focused on the backend with Node.js or Java but also willing to work on the frontend with React.js or mobile with React Native. I'a a hungry learner and am always improving my skills. I'd like being part of a great team where I could learn from and share my knowledge with the goal of growing the businness and improving each others skill as engineers. I have solid understanding and experience working with JavaScript and Java. I'm experienced modeling, building and maintaining REST APIs, MVC apps, SQL and NoSQL databases.
+I'm a web developer since 2010 and am looking for opportunities to work as **Fullstack Web Developer** focused on the backend with Node.js or Java but also willing to work on the frontend with React.js. I'a a hungry learner and am always improving my skills. I'd like being part of a great team where I could learn from and share my knowledge with the goal of growing the businness and improving each others skill as engineers. I have solid understanding and experience working with JavaScript and Java. I'm experienced modeling, building and maintaining REST APIs, MVC apps, SQL and NoSQL databases.
 
 ---------------
 
