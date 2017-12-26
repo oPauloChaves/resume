@@ -1,4 +1,4 @@
-# Backend Developer
+# Fullstack Developer
 
 ## Paulo Chaves da Silva Filho
 
@@ -14,7 +14,7 @@ paulochavesbr - Skype
 
 ----------
 
-I'm a backend developer since 2010 and am looking for opportunities to work as **Backend Developer** focused on Node.js but also willing to work with Java or on the frontend with React.js. I'a a hungry learner and am always improving my skills. I'd like being part of a great team where I could learn from and share my knowledge with the goal of growing the businness and improving each others skill as engineers. I have solid understanding and experience working with JavaScript and Java. I'm experienced modeling, building and maintaining REST APIs, MVC apps, SQL and NoSQL databases.
+I'm a developer since 2010 and am looking for opportunities to work as **Fullstack Developer** focused on Node.js and React.js but also willing to work with Java. I'a a hungry learner and am always improving my skills. I'd like being part of a great team where I could learn from and share my knowledge with the goal of growing the businness and improving each others skill as engineers. I have solid understanding and experience working with JavaScript and Java. I'm experienced modeling, building and maintaining REST APIs, MVC apps, SQL and NoSQL databases.
 
 ---------------
 
